@@ -1,0 +1,1 @@
+第一次push时总失败，是因为构建remote origin 时要使用ssh的链接，而不是http
